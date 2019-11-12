@@ -1,9 +1,5 @@
 /* 
- * ATTENTION!
- * This task does not have an enforced
- * template in this language!
- *
- * However, you can still submit any custom code.
+ * Author: Trenton Letz
  */
 
 #include <stdio.h>
